@@ -1,6 +1,4 @@
-package factory.components;
-
-import factory.UIFactory;
+package factory;
 
 public class UIFactoryFactory {
     public static UIFactory getUIFactory(Platform platform){

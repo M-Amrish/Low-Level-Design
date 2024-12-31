@@ -1,6 +1,5 @@
-package factory.components;
+package factory;
 
-import factory.UIFactory;
 import factory.components.button.Button;
 import factory.components.button.MACButton;
 import factory.components.menu.MACMenu;

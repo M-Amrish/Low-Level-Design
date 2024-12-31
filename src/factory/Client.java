@@ -1,7 +1,5 @@
-package factory.components;
+package factory;
 
-import factory.Flutter;
-import factory.UIFactory;
 import factory.components.button.Button;
 import factory.components.menu.Menu;
 

@@ -1,4 +1,4 @@
-package factory.components;
+package factory;
 
 public enum Platform {
 
