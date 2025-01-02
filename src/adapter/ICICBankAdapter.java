@@ -1,8 +1,8 @@
-package adapter.thirdParty;
+package adapter;
 
 import adapter.thirdParty.icicbank.ICICBank;
 
-public class ICICBankAdapter implements BankAPI{
+public class ICICBankAdapter implements BankAPI {
 
     private ICICBank icicBank = new ICICBank();
 

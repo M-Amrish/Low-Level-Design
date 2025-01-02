@@ -1,8 +1,8 @@
-package adapter.thirdParty;
+package adapter;
 
 import adapter.thirdParty.yesbank.YesBank;
 
-public class YesBankAdapter implements BankAPI{
+public class YesBankAdapter implements BankAPI {
     private YesBank yesBank = new YesBank();
 
     @Override

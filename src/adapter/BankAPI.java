@@ -1,4 +1,4 @@
-package adapter.thirdParty;
+package adapter;
 
 public interface BankAPI {
     void sendMoney(String from, String to, int amount);
