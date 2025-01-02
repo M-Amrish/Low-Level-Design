@@ -6,4 +6,5 @@ public enum Platform {
     MAC,
     WINDOWS,
     ANDROID
+
 }

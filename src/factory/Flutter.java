@@ -1,7 +1,6 @@
 package factory;
 
 public class Flutter {
-
     //Non factory methods.
 
     void refreshUI() {

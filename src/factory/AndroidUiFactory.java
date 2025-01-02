@@ -14,5 +14,6 @@ public class AndroidUiFactory implements UIFactory {
     @Override
     public Menu creteMenu() {
         return new AndroidMenu();
+
     }
 }

@@ -12,7 +12,6 @@ public class UIFactoryFactory {
         } else if (platform.equals(Platform.WINDOWS)) {
             return  new WindowsUiFactory();
         }
-
         return null;
     }
 }

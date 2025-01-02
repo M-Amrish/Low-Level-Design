@@ -15,4 +15,5 @@ public class MACUiFactory implements UIFactory {
     public Menu creteMenu() {
         return new MACMenu();
     }
+
 }

@@ -10,5 +10,4 @@ public interface UIFactory {
     Button createButton();
 
     Menu creteMenu();
-
 }
